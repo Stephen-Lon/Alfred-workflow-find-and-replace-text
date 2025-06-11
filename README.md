@@ -57,7 +57,6 @@ then once you have entered the search text and replacement text all you have to 
 
 # Using pasted text with the workflow keyword
 You can copy some text then use the workflow keyword (`fxr` by default) and paste the text in the workflow:
-
-![Find and replace text](Images/Keyword.png)
+![Keyword](https://github.com/user-attachments/assets/ce721389-2cd5-4848-87ef-17c219ad5e06)
 
 The find and replace then works in the same manner as outlined above save that at the end of the workflow you will be offered the options of either overwriting the original text on the clipboard or simply ending the workflow.
