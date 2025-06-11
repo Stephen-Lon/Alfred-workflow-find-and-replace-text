@@ -29,21 +29,21 @@ Type the case sensitive word or phrase you wish to find in the text. (Take care 
 4. If the find and replace operation is successful you will see a preview of the revised text:
 ![Check](https://github.com/user-attachments/assets/dbd62974-e5a2-40c0-9eda-24e1cc8c111c)
 
-Note:
-- The capitalised "Seagulls" was not replaced because the search and replace is case sensitive.
-- The prompts at the bottom of the window: press <kbd>↩</kbd> to accept the revised text or <kbd>⌘</kbd><kbd>↩</kbd> if you wish to edit it. <kbd>⌘</kbd><kbd>0</kbd> wiill toggle size of the window and <kbd>esc</kbd> will take you back to change the replacement text.
-- You can also press <kbd>⌘</kbd><kbd>esc</kbd> to cancel the workflow.
+  Note:
+  - The capitalised "Seagulls" was not replaced because the search and replace is case sensitive.
+  - The prompts at the bottom of the window: press <kbd>↩</kbd> to accept the revised text or <kbd>⌘</kbd><kbd>↩</kbd> if you wish to edit it. <kbd>⌘</kbd><kbd>0</kbd> wiill toggle size of the window and <kbd>esc</kbd> will take you back to change the replacement text.
+  - You can also press <kbd>⌘</kbd><kbd>esc</kbd> to cancel the workflow.
 
-If you press <kbd>⌘</kbd><kbd>↩</kbd> to edit the text you will see a window like this:
-![Edit](https://github.com/user-attachments/assets/08303de2-9dd3-46fb-b296-0a84305e84fb)
+  If you press <kbd>⌘</kbd><kbd>↩</kbd> to edit the text you will see a window like this:
+  ![Edit](https://github.com/user-attachments/assets/08303de2-9dd3-46fb-b296-0a84305e84fb)
 
-Note:
-- Most of the prompts at the bottom of the window have changed. <kbd>↩</kbd> will enter a new line in the text and <kbd>⌘</kbd><kbd>↩</kbd> will save the text in the window (whether you edit it or not). <kbd>esc</kbd> will undo any edits and take you back to the previous window (from which, if you wish, you can again press <kbd>esc</kbd> to go back and change the replacement text).
-- If you decide not to edit the text you don't need to return to the previous window to save it: just press <kbd>⌘</kbd><kbd>↩</kbd> in this window to continue.
-- You can press <kbd>⌘</kbd><kbd>esc</kbd> to cancel the workflow.
+  Note:
+  - Most of the prompts at the bottom of the window have changed. <kbd>↩</kbd> will enter a new line in the text and <kbd>⌘</kbd><kbd>↩</kbd> will save the text in the window (whether you edit it or not). <kbd>esc</kbd> will undo any edits and take you back to the previous window (from which, if you wish, you can again press <kbd>esc</kbd> to go back and change the replacement text).
+  - If you decide not to edit the text you don't need to return to the previous window to save it: just press <kbd>⌘</kbd><kbd>↩</kbd> in this window to continue.
+  - You can press <kbd>⌘</kbd><kbd>esc</kbd> to cancel the workflow.
 
-You can edit the text however you wish:
-![Result](https://github.com/user-attachments/assets/0e223a24-1263-44ff-841b-3ad8b256ee36)
+  You can edit the text however you wish:
+  ![Result](https://github.com/user-attachments/assets/0e223a24-1263-44ff-841b-3ad8b256ee36)
 
 5. At the end of the workflow you will see the dialog offering the options of either overwriting the original selected text or of simply copying the revised text to the clipboard. (You may need the latter option when working with text in a document that is not writable—a PDF file, for example.)
 
