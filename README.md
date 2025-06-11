@@ -16,18 +16,18 @@ The workflow works with either:
 1. Select some text and press your Universal Action hotkey (<kbd>⌘/</kbd> by default). Choose the `Find and replace text` action and press <kbd>↩︎</kbd>.
 ![The UA](https://github.com/user-attachments/assets/8cbfc068-f523-46ad-af20-1b5b786afdd3)
 
-Type the case sensitive word or phrase you wish to find in the text. (Take care with spaces because the find and replace will work on spaces as well as characters.)
-![Find](https://github.com/user-attachments/assets/2640534a-67d7-4f2c-90ca-646f3ddd79b7)
+  Type the case sensitive word or phrase you wish to find in the text. (Take care with spaces because the find and replace will work on spaces as well as characters.)
+  ![Find](https://github.com/user-attachments/assets/2640534a-67d7-4f2c-90ca-646f3ddd79b7)
 
 2. Press <kbd>⏎</kbd> and type the case sensitive word or phrase which you wish to *replace* the original word or phrase. (You'll see the original word or phrase in the sub-text of the prompt.) You can leave the field blank if you simply wish to delete a word or phrase in the selected text.
-![Replace](https://github.com/user-attachments/assets/2002283f-c9e6-4748-bfdd-cbf2be5f983f)
+  ![Replace](https://github.com/user-attachments/assets/2002283f-c9e6-4748-bfdd-cbf2be5f983f)
 
   Press <kbd>⏎</kbd>.
 
 3. If the `Find` then fails to find the relevant word or phrase in the text you will see an error message warning you of that. 
  
 4. If the find and replace operation is successful you will see a preview of the revised text:
-![Check](https://github.com/user-attachments/assets/dbd62974-e5a2-40c0-9eda-24e1cc8c111c)
+  ![Check](https://github.com/user-attachments/assets/dbd62974-e5a2-40c0-9eda-24e1cc8c111c)
 
   Note:
   - The capitalised "Seagulls" was not replaced because the search and replace is case sensitive.
